@@ -25,7 +25,7 @@ Be welcome! In this project, a complete authentication system make in MERN, Redu
 
 ## 📌 Version
 
-1.0
+This repository is basically a backup. From version 1.0 onwards there may be commits in order to improve the code.
 
 ## ✒️ Author
 
